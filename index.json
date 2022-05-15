@@ -1,0 +1,22 @@
+[
+    {
+        "name" :"Question Kit",
+        "url": "/interview-praparation/praparation-questions-kit.md"
+    },
+    {
+        "name" :"OOPS",
+        "url": "/interview-praparation/oops.md"
+    },
+    {
+        "name" :"DBMS",
+        "url": "/interview-praparation/dbms.md"
+    },
+    {
+        "name" :"Computer Network",
+        "url": "/interview-praparation/oops.md"
+    },
+    {
+        "name" :"Python",
+        "url": "/interview-praparation/python.md"
+    }
+]
